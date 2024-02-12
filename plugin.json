@@ -6,7 +6,7 @@
   "Author": "Processor",
   "Version": "1.0",
   "Language": "python",
-  "Website": "https://github.com/Garulf/window-services",
+  "Website": "https://github.com/Processori7/freeChat-FlowLauncher-Plugin",
   "IcoPath": "./icons/robot.png",
   "ExecuteFileName": "main.py"
 }
