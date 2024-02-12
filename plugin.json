@@ -1,0 +1,12 @@
+{
+  "ID":"F2G3H45J6K7L5PO9M8N7K6J5H4G3",
+  "ActionKeyword": "fc",
+  "Name": "freeChat",
+  "Description": "Free Chat GPT 3",
+  "Author": "Processor",
+  "Version": "1.0",
+  "Language": "python",
+  "Website": "https://github.com/Garulf/window-services",
+  "IcoPath": "./icons/robot.png",
+  "ExecuteFileName": "main.py"
+}
